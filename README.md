@@ -2,12 +2,14 @@
 
 Pengalaman Belajar di Dicoding
 
-9 September 2024
+# Pengalaman Belajar di Dicoding
+
+**9 September 2024**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-10 September 2024
+**10 September 20241**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
